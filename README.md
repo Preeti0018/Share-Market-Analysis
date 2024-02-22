@@ -29,3 +29,18 @@ Now lets consider different windows of rolling , ie 10 days , 20 days , 50 days
 
 ![quaterly basis](https://github.com/Preeti0018/Share-Market-Analysis/assets/159876174/f3ac5e9b-c493-4a39-bb81-9e372d1909ba)
 
+## Whether closing prices of these tech companies (Amazon,Apple,Google,Microsoft) are correlated or not
+
+![co related](https://github.com/Preeti0018/Share-Market-Analysis/assets/159876174/87c3ca98-8e76-4a44-a049-a90ba0b1deb5)
+
+### Co-relation plot for stock prices with help of Heat Map ( closing price )
+
+![corealtion Heatmap](https://github.com/Preeti0018/Share-Market-Analysis/assets/159876174/5a4de367-5136-4c76-a377-bae732d24b99)
+
+## Analyse Whether Daily change in Closing price of stocks or Daily Returns in Stock are co-related or not
+#### Since we have used Pairplot already , lets use extension of Pairplot , i.e Pairgrid
+Pairplot : We have histogram on diagonals & scatterplot , kde(kernel density estimate)plot , any other plot which tells distribution on rest of the plot.
+
+![pairplot](https://github.com/Preeti0018/Share-Market-Analysis/assets/159876174/29cf78ad-b8e9-43da-88e0-1b85bf418126)
+
+
